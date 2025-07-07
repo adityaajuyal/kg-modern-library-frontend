@@ -1,0 +1,12 @@
+/* Test CSS */
+.test-red {
+  background-color: red;
+  color: white;
+  padding: 20px;
+}
+
+.test-blue {
+  background-color: blue;
+  color: white;
+  padding: 20px;
+}
